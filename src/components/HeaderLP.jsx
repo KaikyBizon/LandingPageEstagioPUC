@@ -24,7 +24,7 @@ export default function HeaderLp() {
             <br /> antes mesmo de se
             <br /> formar.
           </h2>
-          <div className="w-1/2 xl:w-1/3 h-fit p-4 text-[#002776] 2xl:text-lg bg-white rounded-lg">
+          <div className="w-9/10 xl:w-1/3 h-fit p-4 text-[#002776] 2xl:text-lg bg-white rounded-lg">
             <p>
               O estágio é o primeiro contato direto do aluno com o mercado de trabalho, unindo a teoria da faculdade com a prática profissional. 
               Ele desenvolve habilidades e conhecimentos, alinhando a formação acadêmica à missão social da Universidade. 
