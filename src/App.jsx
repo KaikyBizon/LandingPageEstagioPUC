@@ -29,13 +29,6 @@ function App() {
 
   return (
     <div className="font-poppins">
-      {isLoading && (
-        // Preloader/Spinner - Visível enquanto isLoading for true
-        <div className="fixed inset-0 bg-white flex justify-center items-center z-50">
-          <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-blue-500"></div>
-          {/* Você pode adicionar um texto ou outro elemento de carregamento aqui */}
-        </div>
-      )}
       <HeaderLp />
       {/* Cards da área Porque fazer um estágio */}
       <PQFEstagio />
