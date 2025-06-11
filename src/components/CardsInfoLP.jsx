@@ -14,11 +14,14 @@ export default function CardsInfo() {
               com deficiência);
               <br /> <br /> - Estágio de 40h semanais só é permitido se estiver
               previsto no curso;
-              <br /> <br /> - Estudantes têm direito a recesso remunerado de 30 dias a cada
-              12 meses, ou proporcional em contratos com duração menor que 12 meses podendo ser concedido em período
-              contínuo ou fracionado.
-              <br /><br /> - Caso o estágio seja encerrado antes do prazo e da realização do recesso, a
-              unidade concedente deverá remunerar e conceder o valor proporcional ao recesso.
+              <br /> <br /> - Estudantes têm direito a recesso remunerado de 30
+              dias a cada 12 meses, ou proporcional em contratos com duração
+              menor que 12 meses podendo ser concedido em período contínuo ou
+              fracionado.
+              <br />
+              <br /> - Caso o estágio seja encerrado antes do prazo e da
+              realização do recesso, a unidade concedente deverá remunerar e
+              conceder o valor proporcional ao recesso.
             </>
           }
         />
@@ -68,11 +71,14 @@ export default function CardsInfo() {
               <br /> <br /> <strong>- Estágio Não Obrigatório:</strong> A
               avaliação é feita pelo supervisor da empresa e inclui uma
               autoavaliação do estagiário. Ambos os relatórios são analisados
-              pela faculdade. <br /><br />
-
-              <strong>*Na PUC-Campinas, não há período de provas ou exame final, sendo a avaliação
-processual. Portanto, nos dias de avaliação da aprendizagem, não está prevista
-redução da jornada de estágio (cf. Regimento Geral, Capítulo VIII, artigo 85).</strong>
+              pela faculdade. <br />
+              <br />
+              <strong>
+                *Na PUC-Campinas, não há período de provas ou exame final, sendo
+                a avaliação processual. Portanto, nos dias de avaliação da
+                aprendizagem, não está prevista redução da jornada de estágio
+                (cf. Regimento Geral, Capítulo VIII, artigo 85).
+              </strong>
             </>
           }
         />
@@ -97,16 +103,15 @@ redução da jornada de estágio (cf. Regimento Geral, Capítulo VIII, artigo 85
           }
         />
         <CardsBlue
-          title="Contatos"
+          title="Quem pode oferecer vagas de estágio"
           description={
             <>
-              <strong>Interessado em fazer um estágio?</strong><br />
-              Se você se identificou com as oportunidades e quer dar o próximo passo na sua formação profissional, 
-              entre em contato com o Escritório de Talentos e Carreiras da PUC-Campinas. A equipe está pronta para te orientar!<br /> <br />
-              📧 E-mail: seliganotrabalho@puc-campinas.edu.br <br />
-              🌐 Site: <a className="hover:opacity-75 active:opacity-30" href="https://estagio.puc-campinas.edu.br">estagio.puc-campinas.edu.br</a><br /> <br />
-              📞CAA – Campus I: (19) 3343-7500 <br />
-              📞CAA – Campus II: (19) 3343-6918
+              - As organizações dos setores públicos e privados, conveniadas com a
+              PUC-Campinas ou com agentes integradores, podem oferecer a vaga de
+              estágio, sempre obedecendo os quesitos da <a className="underline" target="_blank" rel="noopener noreferrer" href="https://www.puc-campinas.edu.br/wp-content/uploads/2023/06/Cartilha-do-Estagiario-2023.pdf#page=14">
+              Lei de Estágio nº 11.788/2008</a> e o Regulamento de Estágio da Faculdade/Curso do
+              aluno. A PUC-Campinas possibilita a realização de palestras e
+              processos seletivos in loco.
             </>
           }
         />
